@@ -377,7 +377,7 @@ input[type="submit"] {
 
 .Imagenor {
     width: 100%;
-    min-height: 100px; /* Ajusta la altura mínima según tus necesidades */
+    min-height: 80px; /* Ajusta la altura mínima según tus necesidades */
     object-fit: cover;
 }
 
